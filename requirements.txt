@@ -3,5 +3,5 @@ bs4==0.0.1
 lxml==4.2.5
 requests==2.21.0
 tldextract==2.2.0
-urllib3==1.23
+urllib3==1.26.5
 xpinyin==0.5.6
